@@ -1,4 +1,26 @@
 baseURL = "https://brickjourney.anthonyoconnor.ca/"
 languageCode = "en-us"
 title = "Brick Journey"
-theme = "ananke"
+theme = "hugo-bricks"
+
+
+preserveTaxonomyNames = true
+
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Photos"
+    url = "/photos"
+    weight = 2
+#[[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 4
+

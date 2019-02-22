@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+<div class="gallery">
+  {{if not .IsHome }}
+  <h1>{{ .Title | markdownify }}</h1>
+  {{ end }}
+  {{ .Content }}
+  <div class="photos">
+    {{ range (where .Data.Pages "Section" "!=" "") }}
+    <div class="photo">
+      <a href="{{ .URL }}">
+        <figure>
+          {{ if isset .Params "thumbnail" }}
+          <img src="{{ .Params.thumbnail }}" alt="{{ .Title | markdownify }}">
+          {{ else }}
+          <img src="/images/avatar-thumb.png" alt="{{ .Title | markdownify }}">
+          {{ end }}
+
+          <figcaption>{{ .Title | markdownify }}</figcaption>
+        </figure>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "footer.html" . }}

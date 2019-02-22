@@ -1,0 +1,69 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+
+body { 
+  line-height: 1.6;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin: auto;
+  line-height: 1.5em;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
+}
+
+footer {
+  text-align: center;
+  margin: 1rem;
+}
+
+header {
+  text-align: center;
+  line-height: 3;
+  background: #444;
+  color: #fff;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+}
+
+header a {
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+header a:hover {
+  padding: 20px;
+  color: #adadad;
+  transition: all 0.5s ease-out;
+}
+
+
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+
+.gallery {
+  margin: 2rem;
+}
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photos .photo {
+  max-width: 300px;
+  min-width: 150px;
+}
