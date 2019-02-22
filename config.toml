@@ -1,0 +1,4 @@
+baseURL = "https://brickjourney.anthonyoconnor.ca/"
+languageCode = "en-us"
+title = "Brick Journey"
+theme = "ananke"
