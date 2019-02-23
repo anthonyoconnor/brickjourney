@@ -1,7 +1,6 @@
 ---
 title: "Police Chief"
 date: 2019-02-22T17:08:57-08:00
-draft: true
 thumbnail: /photos/police-chief-thumbnail.jpg
 ---
 

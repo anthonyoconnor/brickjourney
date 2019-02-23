@@ -1,8 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tags: ["tagA", "tagB"]
-draft: true
 thumbnail: /photos/?-thumbnail.jpg
 ---
 
