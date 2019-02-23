@@ -58,6 +58,21 @@ img, iframe, video { max-width: 100%; }
 .gallery {
   margin: 2rem;
 }
+
+main {
+  margin: 2rem;
+}
+
+@media screen and (max-width: 319px) {
+  .gallery {
+    margin: 1rem;
+  }
+  
+  main {
+    margin: 1rem;
+  }
+}
+
 .photos {
   display: flex;
   flex-wrap: wrap;
