@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "_" " " | title }}"
 date: {{ .Date }}
-thumbnail: /photos/?-thumbnail.jpg
+thumbnail: /photos/{{ replace .Name "_" "-" | lower }}-thumbnail.jpg
 ---
 
 Description
 
-![?](/photos/family-portrait.jpg)
+![{{ replace .Name "_" " " | title }}](/photos/{{ replace .Name "_" "-" | lower }}.jpg)
 
 
 <!--more-->

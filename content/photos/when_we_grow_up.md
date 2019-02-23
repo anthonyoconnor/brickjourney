@@ -1,0 +1,21 @@
+---
+title: "When We Grow Up"
+date: 2019-02-22T22:26:50-08:00
+thumbnail: /photos/when-we-grow-up-thumbnail.jpg
+---
+
+Description
+
+![Children LEGO minifigs wearing a storm trooper helment and a batman helment](/photos/when-we-grow-up.jpg)
+
+
+<!--more-->
+
+### Image details
+Camera: Canon EOS Rebel T6s  
+F-stop: f/9  
+Exposure time: 1/20 sec  
+ISO: 200  
+Focal Length: 50mm  
+
+
