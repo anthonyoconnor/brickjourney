@@ -72,6 +72,7 @@ main {
 .photos {
   display: flex;
   flex-wrap: wrap;
+  align-items: baseline;
 }
 
 .photos .photo {
