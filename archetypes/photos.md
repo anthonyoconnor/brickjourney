@@ -6,9 +6,10 @@ draft: true
 thumbnail: /photos/?-thumbnail.jpg
 ---
 
-![?.](/photos/family-portrait.jpg)
-
 Description
+
+![?](/photos/family-portrait.jpg)
+
 
 <!--more-->
 
