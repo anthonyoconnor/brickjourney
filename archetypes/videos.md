@@ -9,6 +9,7 @@ date: {{ .Date }}
 <iframe  src="https://www.youtube.com/embed/KZDCZosS9Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Details:
+
 * Shot with Stop Motion Studio
 * 0 Frames
 * 15 fps

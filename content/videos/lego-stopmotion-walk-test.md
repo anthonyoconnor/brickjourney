@@ -14,7 +14,14 @@ This was the first time using the [Stop Motion Studio](https://www.cateater.com/
 
 I still didn't have proper lighting so there is some flickering.
 
+Details:
+
+* Shot with Stop Motion Studio
+* 108 Frames
+* 12 fps
+
 Things to improve on:
 
 * The Lighting wasn't great and flickered a bit
-* Output video at 1080p at least. The default option in Stop Motion Studio is 720p
+* There was a little camera movement between some frames
+* The walk could be smoother
