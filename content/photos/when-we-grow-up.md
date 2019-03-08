@@ -4,7 +4,7 @@ date: 2019-02-22T22:26:50-08:00
 thumbnail: /photos/when-we-grow-up-thumbnail.jpg
 ---
 
-Description
+What do you want to be when you grow up?
 
 ![Children LEGO minifigs wearing a storm trooper helment and a batman helment](/photos/when-we-grow-up.jpg)
 
