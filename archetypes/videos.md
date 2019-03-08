@@ -10,7 +10,7 @@ date: {{ .Date }}
 
 Details:
 
-* Shot with Stop Motion Studio
+* Shot with [Stop Motion Studio](https://www.cateater.com/ "cateater - Stop Motion Studio") 
 * iPhone camera
 * 0 Frames
 * 15 fps

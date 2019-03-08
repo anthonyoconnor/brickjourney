@@ -16,7 +16,7 @@ It's a lot harder to move minifigs on a random surfact since there are no studs 
 
 Details:
 
-* Shot with Stop Motion Studio
+* Shot with [Stop Motion Studio](https://www.cateater.com/ "cateater - Stop Motion Studio") 
 * iPhone camera
 * 156 Frames
 * 12 fps

@@ -18,7 +18,7 @@ Overall this was just a quick play around with some of the features of Stop Moti
 
 Details:
 
-* Shot with Stop Motion Studio
+* Shot with [Stop Motion Studio](https://www.cateater.com/ "cateater - Stop Motion Studio") 
 * iPhone camera
 * 182 Frames
 * 12 fps

@@ -17,7 +17,7 @@ I had some issues with the focus changing in Stop Motion Studio. Since the build
 Details:
 
 * Shot with CANON EOS Rebel t6s 
-    * images were then imported to Stop Motion Studio on iPhone
+    * images were then imported to [Stop Motion Studio](https://www.cateater.com/ "cateater - Stop Motion Studio") on iPhone
 * 259 Frames
 * 9 fps
 

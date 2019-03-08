@@ -22,7 +22,7 @@ It was a fun video to do and my son really liked surprising the police officers.
 
 Details:
 
-* Shot with Stop Motion Studio
+* Shot with [Stop Motion Studio](https://www.cateater.com/ "cateater - Stop Motion Studio") 
 * iPhone camera
 * 164 Frames
 * 9 fps
