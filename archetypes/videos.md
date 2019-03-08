@@ -11,6 +11,7 @@ date: {{ .Date }}
 Details:
 
 * Shot with Stop Motion Studio
+* iPhone camera
 * 0 Frames
 * 15 fps
 

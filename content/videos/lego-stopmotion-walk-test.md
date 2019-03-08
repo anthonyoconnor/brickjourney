@@ -17,6 +17,7 @@ I still didn't have proper lighting so there is some flickering.
 Details:
 
 * Shot with Stop Motion Studio
+* iPhone camera
 * 108 Frames
 * 12 fps
 

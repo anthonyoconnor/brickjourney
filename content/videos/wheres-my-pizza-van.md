@@ -16,7 +16,8 @@ I had some issues with the focus changing in Stop Motion Studio. Since the build
 
 Details:
 
-* Shot with Stop Motion Studio
+* Shot with CANON EOS Rebel t6s 
+    * images were then imported to Stop Motion Studio on iPhone
 * 259 Frames
 * 9 fps
 
@@ -25,6 +26,7 @@ Things to improve on:
 * The rotating of the chassis was too fast so it was hard to see what was happening
 * The pizza guy getting in the van at the end needed more pictures/frames
 * There was some changes to the lighting during filming from bumping off the lights so different parts of the video had slightly different lighting and flickering
+* There was a mirror off to the side of where it was shot and this likely caused some of the light flicker too 
 * The tripod shifted a few times so there is some movement of the frame
 * Some frames out of focus, check the focus during the process rather than assuming it is correct
 * Take more time during the build process rather than rushing it
