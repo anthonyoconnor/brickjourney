@@ -1,5 +1,5 @@
 ---
-title: "Lego Stopmotion Walk Test"
+title: "LEGO stop motion Walk Test"
 date: 2019-02-22T21:57:59-08:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "LEGO Stopmotion Videos"
+title: "LEGO stop motion videos"
 date: 2019-02-22T10:00:54-08:00
 ---
 

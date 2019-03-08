@@ -1,5 +1,5 @@
 ---
-title: "First Lego Stopmotion"
+title: "First LEGO Stop motion"
 date: 2019-02-22T20:54:41-08:00
 ---
 
