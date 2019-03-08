@@ -1,6 +1,6 @@
 ---
 title: "Lego Stopmotion Walk Test"
-date: 2019-03-07T21:57:59-08:00
+date: 2019-02-22T21:57:59-08:00
 ---
 
 <!--more-->

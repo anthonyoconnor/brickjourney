@@ -1,6 +1,6 @@
 ---
 title: "First Lego Stopmotion"
-date: 2019-03-06T20:54:41-08:00
+date: 2019-02-22T20:54:41-08:00
 ---
 
 <!--more-->
