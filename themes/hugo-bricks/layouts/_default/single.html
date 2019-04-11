@@ -9,4 +9,17 @@
     {{ .Content }}
 </main>
 
+<div class="blog-nav">
+    <div>
+        {{ if .PrevInSection }}
+        <a href="{{.PrevInSection.Permalink}}">Previous: {{.PrevInSection.Name}} </a>
+        {{ end }}
+    </div>
+    <div>
+        {{ if .NextInSection }}
+        <a href="{{.NextInSection.Permalink}}">Next: {{.NextInSection.Name}}</a>
+        {{ end }}
+    </div>
+</div>  
+
 {{ partial "footer.html" . }}
