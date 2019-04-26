@@ -5,8 +5,7 @@ date: 2019-02-24T22:58:27-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/z34SH7bqK1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="z34SH7bqK1k" >}}
 
 I was away from home for a few days and grabbed two minifigs before leaving. I tried experimenting with moving minifigs on a surface other than a baseplate. This video was shot in a kitchen and surprisingly the lighting turned out ok. It's just a short fun video.
 

@@ -5,8 +5,7 @@ date: 2019-02-22T20:54:41-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/KZDCZosS9Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="KZDCZosS9Dc" >}}
 
 This was my first attempt at LEGO stop motion. This was a pretty bare bones attempt. I just grabbed a LEGO minifig and baseplate and started taking pictures. Initally I was just going to try a walk cycle but it eventually turned into the minifig taking his helmet off. I didn't pay any attention to the lighting, just using the normal lights in the room. I also didn't secure the baseplate.
 

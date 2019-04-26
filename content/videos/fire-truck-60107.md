@@ -5,9 +5,7 @@ date: 2019-03-27T21:07:19-07:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/MoRVCBrSJXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+{{< youtube id="MoRVCBrSJXQ" >}}
 
 I wanted to try doing another stop motion build video like the [LEGO pizza van](https://www.youtube.com/watch?v=YlbiOBFjfdc "LEGO pizza van video") video. I picked the LEGO fire truck since it wasn't too big and it was already built.
 

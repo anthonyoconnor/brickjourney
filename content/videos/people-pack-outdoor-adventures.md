@@ -6,8 +6,7 @@ date: 2019-04-12T09:33:09-07:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/CrL4xD4-BDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="CrL4xD4-BDo" >}}
 
 We recently got the [LEGO CITY: People Pack Outdoor Adventures set 60202](https://shop.lego.com/en-CA/product/People-Pack-Outdoor-Adventures-60202 "LEGO CITY: People Pack Outdoor Adventures set 60202") to add to our minifig collection. Mainly we got it for the baby minifigure since we have a real baby coming soon and I'll need to add the baby to the youtube family banner picture. 
 

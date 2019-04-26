@@ -5,9 +5,7 @@ date: 2019-04-10T20:12:03-07:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/K59nZdmtMAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+{{< youtube id="K59nZdmtMAY" >}}
 
 I haven't done much stop motion with moving vehicles so I had an idea of doing a race with 2 small LEGO ATVs. As well as just racing I thought it would be a good idea to have the minifigures build their vehicles before being able to race. I built a basic set a sand baseplate that would eventually be the starting point of the race that you see in the video.
 

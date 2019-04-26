@@ -5,8 +5,7 @@ date: 2019-02-22T21:57:59-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe src="https://www.youtube.com/embed/QwuRoOiRwt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="QwuRoOiRwt4" >}}
 
 This was the first proper walk cycle test video. I watched some videos that teach walk cycles and tried it with a minifig.
 

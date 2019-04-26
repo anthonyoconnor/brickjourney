@@ -5,8 +5,7 @@ date: 2019-03-04T09:41:26-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/rnORJqWUQwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="rnORJqWUQwk" >}}
 
 This video was a collaboration between myself and my son. We had recently gotten some new base plates and set them up around the [LEGO mountain police headquarters (set 60174)](https://shop.lego.com/en-CA/product/Mountain-Police-Headquarters-60174 "LEGO mountain police headquarters set 60174"). We were playing and created a little bridge with some water running under it. My son set the police minifigures down on it and started pretending they were taking a break from work. 
 

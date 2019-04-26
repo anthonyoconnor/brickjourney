@@ -5,8 +5,7 @@ date: 2019-03-05T10:06:23-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/Hd_AkH3I9Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="Hd_AkH3I9Ik" >}}
 
 I only had a short time for this video so I just did a basic walk cycle for practice. I spent some time trying to match up the sound of the footsteps with the actual steps of the minifigure. There is only so much you can do with the built in sound effects in Stop Motion Studio however. Also it is kind of a pain to do this type of work on an iPhone. A proper computer would be much better for this, unfortunately Stop Motion Studio doesn't run on windows and I don't have a Mac to run it.
 

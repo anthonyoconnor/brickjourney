@@ -5,8 +5,7 @@ date: 2019-03-06T10:18:46-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/nKqz1J5mJC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="nKqz1J5mJC4" >}}
 
 My son built the water cooler you see in the video. He saw it in one of the LEGO ideas books. Using the water cooler as the main prop we started talking about how we could use it in a video.
 

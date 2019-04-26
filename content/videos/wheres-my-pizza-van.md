@@ -5,8 +5,7 @@ date: 2019-02-22T22:25:32-08:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/YlbiOBFjfdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube id="YlbiOBFjfdc" >}}
 
 I tried to make a different type of stop motion video: a build stop motion video. This was an experiment since I had no idea what kind of frame rate would be needed. I just took a photo after placing every piece so there was some playing around with the framerate afterwards to see what worked. This means that some of the video is too fast and others too slow.
 

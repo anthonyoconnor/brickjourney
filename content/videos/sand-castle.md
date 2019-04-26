@@ -5,10 +5,7 @@ date: 2019-03-26T20:58:02-07:00
 
 <!--more-->
 
-<div class="youtube-responsive-container">
-<iframe  src="https://www.youtube.com/embed/AIcD19rnqWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
+{{< youtube id="AIcD19rnqWA" >}}
 
 I saw a video about building a [LEGO sand castle](https://www.youtube.com/watch?v=IjB0meyXhb4 "Small Brick City youtube channel - LEGO sand castle video") on the  [Small Brick City youtube channel](https://www.youtube.com/channel/UCTzEm4CYPbxhsJydmdfARIA "Small Brick City youtube channel"). By the way this is a great channel that has loads of great videos about building MOCs and small buildings. Lots of great techniques are show to add great details to your builds.
 
